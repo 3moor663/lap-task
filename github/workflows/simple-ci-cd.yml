@@ -1,0 +1,6 @@
+name : simple-ci-cd demo
+on:
+  push:
+    branches: [ main ]
+  
+
